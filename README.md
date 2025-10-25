@@ -1,8 +1,8 @@
-# MindTrack Backend
+# Pulse Backend - The Bio Rhythm
 
 ## 🔥 Firebase Backend Architecture
 
-This repository contains the backend configuration and security rules for MindTrack, a habit tracking application built with Firebase.
+This repository contains the backend configuration and security rules for Pulse, a bio rhythm habit tracking application built with Firebase.
 
 ## 🏗️ Tech Stack
 
